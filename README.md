@@ -1,0 +1,1 @@
+End-to-end e-commerce customer segmentation system using data preprocessing, feature engineering, PCA, K-Means, and Agglomerative Clustering, with cluster evaluation and customer profiling for business insights.
